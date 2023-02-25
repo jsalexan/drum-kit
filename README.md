@@ -25,10 +25,7 @@
   <br><br>
 
   ## [Installation](#table-of-contents)
-  The website is hosted by GitHub Pages <br>
-  You can find it here: [Drum Kit](https://jsalexan.github.io/drum-kit/)
-  <br><br>
-  The repository is on GitHub: [GitHub repository for React Portfolio.](https://github.com/jsalexan/drum-kit) <br>
+  The repository is on GitHub: [GitHub repository for Drum Kit.](https://github.com/jsalexan/drum-kit) <br>
   There you will find following file types: <br>
   -JavaScript<br>
   -CSS<br>
@@ -36,8 +33,7 @@
   -Markdown<br>
   -Image files<br>
   <br>
-  You can run the app by visiting the GitHub Pages site linked above.   <br><br>
-
+  
 ## [Usage](#table-of-contents)
   The website (link above) was created to be used on the following devices:<br> 
 -Desktop.
