@@ -1,7 +1,11 @@
 html {
   font-size: 10px;
-  background: url('https://user-images.githubusercontent.com/110498167/221328050-7aa3211d-3f96-454e-a0f2-be93ef1a6321.png') bottom center;
+  background-image: url('https://user-images.githubusercontent.com/110498167/221328050-7aa3211d-3f96-454e-a0f2-be93ef1a6321.png');
+  height: 100vh;
+  background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 body,html {
