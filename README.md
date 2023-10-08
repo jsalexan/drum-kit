@@ -25,7 +25,7 @@
   <br><br>
 
   ## [Installation](#table-of-contents)
-  The site is deployed on GitHub Pages (https://jsalexan.github.io/drum-kit/)<br>
+  The site is deployed on [GitHub Pages](https://jsalexan.github.io/drum-kit/)<br>
   The repository is on GitHub: [GitHub repository for Drum Kit.](https://github.com/jsalexan/drum-kit) <br>
   There you will find following file types: <br>
   -JavaScript<br>
